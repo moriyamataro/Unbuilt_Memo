@@ -1,2 +1,25 @@
 # Unbuilt_Memo
-アンビルト関係の公開記事
+- アンビルト建築に関する小説を書くにあたって触れた資料をここにまとめる
+# 参考文献一覧
+- [アンビルトSFアンソロジー](https://x.com/KuramoriTakemi/status/1865585662134813007)
+- [革命と住宅](https://amzn.asia/d/crp2dYe)
+- [団地団　～ベランダから見渡す映画論](https://amzn.asia/d/7TRt3K0)
+- [運命の皮肉あるいはいい湯を](https://www.youtube.com/watch?v=L5GnqepBJkE)
+- [いまこそ語ろう、磯崎新](https://genron-cafe.jp/event/20250221/)
+- [アンビルト 実現しなかった建築プロジェクト](https://www.graphicsha.co.jp/detail.html?p=48479)
+- [みなさん、さようなら](https://www.gentosha.co.jp/book/detail/9784344014152/)
+- [芝園団地に住んでいます](https://www.akashi.co.jp/book/b481087.html)
+- [家族ゲーム](https://eiga.com/movie/7947/)
+- [給水塔 Beyond The Water Tower　比留間幹](https://www.folkbookstore.com/?pid=127277613)
+- [団地の給水塔大図鑑](https://amzn.asia/d/iqHvW5i)
+- [トミンタワー南千住四丁目](https://www.to-kousya.or.jp/chintai/reco/tt_minamisenju4.html)
+- [THE LINE](https://mag.tecture.jp/culture/20220804-the-line/)
+- [多摩川住宅](https://kyusuitou.blog.fc2.com/blog-entry-164.html)
+- [空中都市](https://www.by.emb-japan.go.jp/j/culture/strugglingcitiesj.html)
+- [団地と映画 ー世界は団地でできている](https://www.takashimaya.co.jp/shiryokan/tokyo/exhibition/)
+- [ヒグマクイズ](https://bearpark.jp/202109_higumaquiz/)
+- [マンションポエム東京論](https://www.webdoku.jp/kanko/page/9784860116040.html)
+- [ショッピングモールから考える ユートピア・バックヤード・未来都市](https://shop.genron.co.jp/products/279)
+- [URまちとくらしのミュージアム｜UR都市機構](https://akabanemuseum.ur-net.go.jp/)
+- [ユニテ・ダビタシオン](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%83%86%E3%83%BB%E3%83%80%E3%83%93%E3%82%BF%E3%82%B7%E3%82%AA%E3%83%B3)
+- [庭の話](https://amzn.asia/d/15HirlK)
